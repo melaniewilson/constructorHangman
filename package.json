@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/melaniewilson/constructorHangman/issues"
   },
-  "homepage": "https://github.com/melaniewilson/constructorHangman#readme"
+  "homepage": "https://github.com/melaniewilson/constructorHangman#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
