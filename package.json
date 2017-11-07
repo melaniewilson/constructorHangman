@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/melaniewilson/constructorHangman#readme",
   "dependencies": {
+    "clear": "0.0.1",
+    "prompt": "^1.0.0",
     "request": "^2.83.0"
   }
 }
